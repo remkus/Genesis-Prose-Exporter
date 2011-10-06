@@ -2,15 +2,15 @@
 Contributors: DeFries, GaryJ
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4UVLDL3LEG2QG
 Tags: genesis, prose, genesiswp
-Requires at least: 3.1
+Requires at least: 3.1.0
 Tested up to: 3.1.2
 Stable tag: 0.1
 
-This plugin hooks Prose settings into Genesis Exporter.
+Hooks Prose settings into Genesis exporter.
 
 == Description ==
 
-This plugin hooks Prose settings into Genesis Exporter, allowing Prose Design Settings to be exported.
+Hooks Prose settings into Genesis exporter, allowing Prose Design Settings to be exported.
 
 == Installation ==
 
